@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PARTAKERS</string>
+    <string name="a1">Android App Development Workshop</string>
+    <string name="a2">(01.03.2018)</string>
+    <string name="a3">Competition mode on\nWelcome to our app</string>
+    <string name="our_team">Our Team</string>
+    <string name="b1">morning session</string>
+    <string name="b2">afternoon session</string>
+    <string name="b3">What we did in workshop</string>
+    <string name="b4">output</string>
+    <string name="c">At first we thought this workshop will not that much effective , but after the classes started it was very interesting to learn , the basics were very easy and the speaker was good in explanation , we were able to learn  about the android app development BASICS in the morning session.</string>
+    <string name="c2">We were started to work in the systems in the afternoon and started with the basic tools in the software and moved on to the App creation part , which was very interesting and we are very much excited to work with Android Studio</string>
+
+    <string name="c3">Finally we were separated into several teams and they started a competition to build app on our own with the topic as "today\'s workshop" , as a result of that competition we made this app from what we have learnt there ,this workshop was fantastic , now we can able to build an Android App - Thank you   </string>
+
+    <string name="d1">BHARATHI V</string>
+
+    <string name="d2">DEEPSHIKA S</string>
+
+    <string name="d3">AMRUTHA V G</string>
+
+    <string name="d4">ADLINE R</string>
+
+
+</resources>
